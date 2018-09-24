@@ -1,0 +1,8 @@
+VERSION_NAME = "Alpha"
+VERSION_VALUE = "BRAVO"
+VERSION_NUMBER = 0.1.1
+VERSION_STRING = 01
+
+//Also do a case where the versions are in objects, like lists, arrays, dicts
+
+VERSION_OBJECT = ["abc", "xyz", "123", "789"]
