@@ -1,3 +1,4 @@
+# Use this script to generate a password of any length.
 # TODO: Add checks for each category. Write these as separate methods
 
 import random
